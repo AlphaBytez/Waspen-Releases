@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "channel": "beta",
+  "published_at": null,
+  "notes_url": "https://github.com/AlphaBytez/Waspen-Releases/releases",
+  "artifacts": [
+    {
+      "platform": "macos",
+      "arch": "universal",
+      "kind": "dmg",
+      "url": null,
+      "mirror_url": null,
+      "sha256": null,
+      "signed": true,
+      "notarized": true
+    },
+    {
+      "platform": "windows",
+      "arch": "x64",
+      "kind": "installer",
+      "url": null,
+      "mirror_url": null,
+      "sha256": null,
+      "signed": false
+    }
+  ]
+}
